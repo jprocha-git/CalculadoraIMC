@@ -1,2 +1,2 @@
-# CalculadoraIMC
-Código para calcular IMC 
+# JIMCalc
+Java IMC Calculator
